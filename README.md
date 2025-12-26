@@ -4,7 +4,10 @@
 
 A complete production-ready system for generating Thai marketing campaigns using advanced AI prompt engineering. Built with React, Node.js, FastAPI, and OpenAI GPT-4o-mini, deployed on AWS EC2.
 
-![Uploading image.png…]()
+<img width="1454" height="675" alt="image" src="https://github.com/user-attachments/assets/f357cfeb-b98a-41f7-9d3f-f8b7382cd49c" />
+<img width="1111" height="550" alt="image" src="https://github.com/user-attachments/assets/14cb718a-7f6d-44a5-a332-0c30317563df" />
+<img width="773" height="500" alt="image" src="https://github.com/user-attachments/assets/2dd5aa15-ae88-4f00-a569-30a0db6be605" />
+<img width="794" height="532" alt="image" src="https://github.com/user-attachments/assets/2d3e516a-3adf-4ead-8aa9-44d4f18febc2" />
 
 
 ##  Live Demo
